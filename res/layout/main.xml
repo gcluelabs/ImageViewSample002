@@ -11,6 +11,13 @@
         android:text="@string/defaultText" >
     </TextView>
 
+    <EditText
+        android:id="@+id/EditText01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="" >
+    </EditText>
+
     <Button
         android:id="@+id/Button01"
         android:layout_width="fill_parent"
