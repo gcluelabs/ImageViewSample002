@@ -29,4 +29,12 @@
         android:text="@string/txtButton01" >
     </Button>
 
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="100dip"
+        android:src="@drawable/logo" >
+    </ImageView>
+
 </LinearLayout>
