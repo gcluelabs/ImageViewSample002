@@ -8,6 +8,7 @@
         android:id="@+id/Button01"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
+        android:background="#ff0000"
         android:text="@string/txtButton01" >
     </Button>
 
